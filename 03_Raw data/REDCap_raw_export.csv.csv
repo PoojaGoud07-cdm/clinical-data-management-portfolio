@@ -1,0 +1,16 @@
+record_id,redcap_repeat_instrument,redcap_repeat_instance,subject_id,site_id,consent_date,date_of_birth,age,sex,race,ethnicity,height_cm,weight_kg,treatment,screening_status,screen_fail_reason,demographics_complete,medical_condition,condition_category,condition_start_date,condition_end_date,condition_ongoing,medical_history_comments,medical_history_complete,subjct_id,visit_name,visit_date,visit_status,treatment_assignment,visit_completed,vist_not_completed_reason,visit_comments,study_visit_complete,vs_subject_id,vs_visit_name,vs_visit_date,systolic_bp,diastolic_bp,heart_rate,respiratory_rate,temperature_c,vs_weight_kg,vs_comments,vital_signs_complete,lb_subject_id,lb_visit_name,lab_collection_date,lab_test,lab_result,lab_unit,reference_low,reference_high,abnormal_flag,lab_comments,laboratory_complete,ae_subject_id,ae_visit_name,ae_term,ae_start_date,ae_end_date,ae_ongoing,ae_seriousness,ae_severity,ae_relationship,ae_action,ae_outcome,ae_comments,adverse_events_complete,cm_subject_id,medication_name,medication_indication,medication_start_date,medication_end_date,medication_ongoing,medication_dose_frequency,cm_comments,concomitent_medications_complete
+1,,,ONC- 0001,1,9/9/2026,1/15/1990,33,1,2,2,172,75,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,medical_history,1,,,,,,,,,,,,,,,Type 2 Diabetes,2,1/15/2020,,1,Pre-existing condition,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,medical_history,2,,,,,,,,,,,,,,,Hypertension,1,10/3/2019,,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,medical_history,3,,,,,,,,,,,,,,,Hyperlipidemia,2,6/20/2021,12/31/2025,2,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,study_visit,1,,,,,,,,,,,,,,,,,,,,,,ONC-0001,1,9/1/2026,2,1,1,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,study_visit,2,,,,,,,,,,,,,,,,,,,,,,ONC-0001,2,9/15/2026,2,1,1,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,vital_signs,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,1,9/1/2026,128,78,72,16,36.7,75,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,vital_signs,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,2,9/15/2026,126,76,70,16,36.6,74.6,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,laboratory,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,2,9/15/2026,1,7.2,1,4.6,5.6,2,,2,,,,,,,,,,,,,,,,,,,,,,
+1,laboratory,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,,,2,135,2,70,99,2,,2,,,,,,,,,,,,,,,,,,,,,,
+1,adverse_events,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,1,Headache,9/20/2026,9/22/2026,2,2,1,3,1,1,,2,,,,,,,,,
+1,adverse_events,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,2,Nausea,9/25/2026,,1,2,2,3,2,2,,2,,,,,,,,,
+1,concomitent_medications,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,Metformin,Type 2 Diabetes,1/15/2020,,1,500mg Twice daily,,2
+1,concomitent_medications,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,Lisinopril,Hypertension,10/3/2019,,1,10mg once daily,,2
+1,concomitent_medications,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ONC-0001,Atorvastatin,Hyperlipidemia,6/20/2021,12/31/2025,2,20mg once daily,,2

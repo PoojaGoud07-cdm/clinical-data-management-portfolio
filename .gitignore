@@ -1,0 +1,17 @@
+﻿# Power BI temporary files
+*.pbit
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Local/editor files
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
